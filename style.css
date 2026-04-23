@@ -1,0 +1,29 @@
+body {
+    text-align: center;
+    background: linear-gradient(to right, #89f7fe, #66a6ff);
+    font-family: Arial;
+}
+
+.dark {
+    background: black;
+    color: white;
+}
+
+.piggy {
+    width: 120px;
+}
+
+.hidden {
+    display: none;
+}
+
+#gift {
+    font-size: 80px;
+    display: none;
+    cursor: pointer;
+}
+
+.gallery img {
+    width: 100px;
+    margin: 5px;
+}
